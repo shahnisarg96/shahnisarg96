@@ -88,7 +88,7 @@ I enjoy learning by building and collaborating with others. I’m always looking
 
 ## 📬 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link](https://www.linkedin.com/in/shahnisarg96/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahnisarg96)  
 
 ---
 
