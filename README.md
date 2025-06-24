@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nisarg Shah
 
-🎯 JavaScript Full-Stack Developer | ☁️ Cloud-Native Engineer (Azure, AWS, GCP)
+🎯 JavaScript Full-Stack Developer | ☁️ Cloud-Native Engineer (Azure, AWS, GCP)  
 🤖 Exploring AI & LLMs | 🧠 Web3 Curious | 📊 Database Polyglot | 🚀 Always Building
 
 ---
@@ -62,15 +62,15 @@ I enjoy learning by building and collaborating with others. I’m always looking
 - **Auth & Identity:** OAuth, JWT, Firebase Auth
 
 ### 🤖 AI / ML / LLMs (Exploring)
-- Azure OpenAI, DeepSeek, Ollama
+- Azure OpenAI, DeepSeek, Ollama  
 - Prompt engineering, embedding-based summarization, AI log processors
 
 ### ⛓️ Blockchain & Web3 (Exploring)
-- Solidity, Ethereum Smart Contracts, Token design (ERC20 basics)
+- Solidity, Ethereum Smart Contracts, Token design (ERC20 basics)  
 - Blockchain use cases in identity, access, and data transparency
 
 ### 🧩 Low-Code / No-Code Tools
-- Firebase, Back4App, AppGyver (POC-level)
+- Firebase, Back4App, AppGyver (POC-level)  
 - Firestore + Auth, Realtime DB integrations for rapid prototyping
 
 ---
@@ -81,16 +81,27 @@ I enjoy learning by building and collaborating with others. I’m always looking
 
 ## 📈 GitHub Stats
 
-![Nisarg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahnisarg96&show_icons=true&theme=github_dark)
+![Nisarg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahnisarg96&show_icons=true&theme=github_dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahnisarg96&layout=compact&theme=github_dark)
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahnisarg96)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahnisarg96)
+
+---
+
+## 🌐 Portfolio
+
+🔗 [Visit My Portfolio Website](https://shahnisarg.dev) <!-- Replace with your actual portfolio link -->
+
+---
+
+## 📄 Resume
+
+📄 [View My Resume (PDF)](https://shahnisarg.dev/resume.pdf) <!-- Replace with actual resume link if hosted -->
 
 ---
 
 _“Code what matters. Deploy what scales. Learn what excites.”_
-
