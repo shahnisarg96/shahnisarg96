@@ -89,8 +89,8 @@ I enjoy learning by building and collaborating with others. I’m always looking
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahnisarg96)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)]([https://shahnisarg.dev](https://shahnisarg96.github.io/portfolio/))
-[![Resume](https://img.shields.io/badge/-Resume-FF5722?logo=adobeacrobatreader&logoColor=white)]([https://shahnisarg.dev/resume.pdf](https://shahnisarg96.github.io/portfolio/pdf/nisarg_2025.pdf))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://shahnisarg96.github.io/portfolio/)
+[![Resume](https://img.shields.io/badge/-Resume-FF5722?logo=adobeacrobatreader&logoColor=white)](https://shahnisarg96.github.io/portfolio/pdf/nisarg_2025.pdf)
 
 ---
 
