@@ -29,6 +29,7 @@ I'm a full-stack developer with over 7 years of experience architecting and buil
 
 I thrive on learning by building, collaborating with others, and delivering real value. Whether it's building SPAs, designing APIs, or optimizing cloud deployments, I'm passionate about improving my understanding of scalable systems, system design, and modern development practices.
 
+
 > _"Keep it simple. Keep it scalable."_
 
 ---
