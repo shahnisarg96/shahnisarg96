@@ -7,19 +7,19 @@
 
 ## 🚀 About Me
 
-I'm a full-stack developer with over 7 years of experience working across frontend, backend, databases, and cloud infrastructure. I prefer a JavaScript-first approach and enjoy building scalable, maintainable systems using modern frameworks and tooling.
+I'm a full-stack developer with over 7 years of experience architecting and building robust, scalable systems across frontend, backend, databases, and cloud infrastructure. I prefer a JavaScript-first approach while remaining tech-agnostic, enjoying the challenge of building maintainable systems using modern frameworks and tooling.
 
-- 💻 Comfortable across the stack — from building SPAs with Angular, React, and Next.js to developing APIs and services with Node.js, Fastify, NestJS, and GraphQL
-- 🛠️ Hands-on with relational and non-relational databases including MySQL, PostgreSQL, MongoDB, CosmosDB, and graph databases like Neo4j
-- ☁️ Cloud-agnostic and experienced with Azure, AWS, GCP, and DigitalOcean — deploying apps using Docker, Kubernetes, and CI/CD pipelines
-- 🔄 Familiar with messaging, streaming, and caching systems like Kafka, RabbitMQ, Redis, and ADX
-- 📬 Integrated various third-party services like Twilio, SendGrid, and payment gateways; built systems using WebSockets, SSE, and RESTful APIs
-- 🧪 Worked with testing tools like Jest, Mocha, JMeter; version control with GitHub, GitLab, Bitbucket, and project tracking with Jira and Trello
-- 🤖 Exploring the intersection of AI and cloud — building prototypes with LLMs (Azure OpenAI, DeepSeek, Ollama) for use cases like log summarization and automation
-- ⛓️ Experimenting with blockchain technologies and smart contracts using Solidity
-- 🔧 Also exploring low-code and rapid-development tools like Firebase and Back4App for certain projects
+💻 Comfortable across the stack — from building SPAs with Angular, React, and Next.js to developing APIs and services with Node.js, Fastify, NestJS, Java, SpringBoot, and GraphQL. Also experienced with mobile development using React Native and Flutter
+🛠️ Hands-on with databases — relational and non-relational including MySQL, PostgreSQL, MongoDB, CosmosDB, and graph databases like Neo4j, adapting to the right tool for each use case
+☁️ Cloud-native and agnostic — experienced with Azure, AWS, GCP, and DigitalOcean, deploying applications using Docker, Kubernetes, and CI/CD best practices for scalable, reliable deployments
+🔄 Systems integration expertise — familiar with messaging, streaming, and caching systems like Kafka, RabbitMQ, Redis, and ADX for building resilient architectures
+📬 Third-party integrations — integrated various services like Twilio, SendGrid, and payment gateways; built systems using WebSockets, SSE, and RESTful APIs for seamless user experiences
+🧪 Development practices — worked with testing tools like Jest, Mocha, JMeter; version control with GitHub, GitLab, Bitbucket, and project tracking with Jira and Trello
+🤖 AI/LLM exploration — building prototypes with Azure OpenAI, DeepSeek, and Ollama for use cases like log summarization and automation, exploring the intersection of AI and cloud technologies
+⛓️ Web3 and blockchain — experimenting with smart contracts using Solidity and exploring blockchain possibilities for modern applications
+🔧 Rapid development — also exploring low-code tools like Firebase and Back4App for certain projects, always choosing the right approach for the problem at hand
 
-I enjoy learning by building and collaborating with others. I’m always looking to improve my understanding of scalable systems, system design, and modern development practices.
+I thrive on learning by building, collaborating with others, and delivering real value. Whether it's building SPAs, designing APIs, or optimizing cloud deployments, I'm passionate about improving my understanding of scalable systems, system design, and modern development practices.
 
 > _"Keep it simple. Keep it scalable."_
 
